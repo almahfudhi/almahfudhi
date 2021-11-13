@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @almahfudhi
+- 👋 Hi, I’m Aljulanda almahfudhi
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Laravel Framework
 - 📫 How to reach me: aljulanda.humaid@gmail.com
